@@ -28,6 +28,7 @@ void AAuraCharacterBase::Tick(float DeltaTime)
 // Called to bind functionality to input
 void AAuraCharacterBase::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
+	//Hello world
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 }
