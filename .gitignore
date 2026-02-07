@@ -1,0 +1,20 @@
+# Unreal generated folders (never commit)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Rider / JetBrains
+.idea/
+.Rider/
+
+# Visual Studio / Windows
+.vs/
+*.VC.db
+*.suo
+*.user
+
+# Build artifacts
+*.pdb
+*.obj
+*.pch
